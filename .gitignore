@@ -1,0 +1,5 @@
+.env.sample
+.env # Ignore environment file
+node_modules
+dist    # Ignore build output
+``` 
