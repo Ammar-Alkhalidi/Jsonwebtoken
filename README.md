@@ -40,4 +40,4 @@
 - Server verwenden den Signatur-Hash auch, um zu überprüfen, dass dieser jwt von ihm erstellt wurde
   - Denn der geheime Teil ist nur dem Server bekannt# Jsonwebtoken
 # Jsonwebtoken
-AAAA
+
